@@ -1,0 +1,3 @@
+EL número de casos clasificación 1 es : 3143
+EL número de casos clasificación 2 es : 71
+ EL número de casos clasificación 3 es : 84601
